@@ -1,0 +1,116 @@
+2025-06-07 04:15:02 [INFO] [INFO] Scheduler started. Waiting for scheduled time...
+2025-06-07 04:20:33 [INFO] [INFO] Scheduler started. Waiting for scheduled time...
+2025-06-07 04:25:33 [INFO] [STEP] Starting Data Pipeline with Pagination...
+2025-06-07 04:25:33 [INFO] [STEP] Table created successfully.
+2025-06-07 04:25:33 [INFO] [STEP] Fetching data from all pages...
+2025-06-07 04:25:34 [INFO] [INFO] Fetched page 1, total records so far: 100
+2025-06-07 04:25:35 [INFO] [INFO] Fetched page 2, total records so far: 200
+2025-06-07 04:25:36 [INFO] [INFO] Fetched page 3, total records so far: 300
+2025-06-07 04:25:36 [INFO] [INFO] Fetched page 4, total records so far: 400
+2025-06-07 04:25:37 [INFO] [INFO] Fetched page 5, total records so far: 500
+2025-06-07 04:25:38 [INFO] [INFO] Fetched page 6, total records so far: 600
+2025-06-07 04:25:39 [INFO] [INFO] Fetched page 7, total records so far: 700
+2025-06-07 04:25:40 [INFO] [INFO] Fetched page 8, total records so far: 800
+2025-06-07 04:25:41 [INFO] [INFO] Fetched page 9, total records so far: 900
+2025-06-07 04:25:42 [INFO] [INFO] Fetched page 10, total records so far: 1000
+2025-06-07 04:25:43 [INFO] [INFO] Fetched page 11, total records so far: 1100
+2025-06-07 04:25:44 [INFO] [INFO] Fetched page 12, total records so far: 1200
+2025-06-07 04:25:45 [INFO] [INFO] Fetched page 13, total records so far: 1300
+2025-06-07 04:25:46 [INFO] [INFO] Fetched page 14, total records so far: 1400
+2025-06-07 04:25:47 [INFO] [INFO] Fetched page 15, total records so far: 1500
+2025-06-07 04:25:48 [INFO] [INFO] Fetched page 16, total records so far: 1600
+2025-06-07 04:25:49 [INFO] [INFO] Fetched page 17, total records so far: 1700
+2025-06-07 04:25:50 [INFO] [INFO] Fetched page 18, total records so far: 1800
+2025-06-07 04:25:51 [INFO] [INFO] Fetched page 19, total records so far: 1900
+2025-06-07 04:25:52 [INFO] [INFO] Fetched page 20, total records so far: 2000
+2025-06-07 04:25:53 [INFO] [INFO] Fetched page 21, total records so far: 2100
+2025-06-07 04:25:54 [INFO] [INFO] Fetched page 22, total records so far: 2200
+2025-06-07 04:25:55 [INFO] [INFO] Fetched page 23, total records so far: 2300
+2025-06-07 04:25:55 [INFO] [INFO] Fetched page 24, total records so far: 2400
+2025-06-07 04:25:56 [INFO] [INFO] Fetched page 25, total records so far: 2500
+2025-06-07 04:25:57 [INFO] [INFO] Fetched page 26, total records so far: 2600
+2025-06-07 04:25:58 [INFO] [INFO] Fetched page 27, total records so far: 2700
+2025-06-07 04:25:59 [INFO] [INFO] Fetched page 28, total records so far: 2800
+2025-06-07 04:26:00 [INFO] [INFO] Fetched page 29, total records so far: 2900
+2025-06-07 04:26:01 [INFO] [INFO] Fetched page 30, total records so far: 3000
+2025-06-07 04:26:02 [INFO] [INFO] Fetched page 31, total records so far: 3100
+2025-06-07 04:26:03 [INFO] [INFO] Fetched page 32, total records so far: 3200
+2025-06-07 04:26:04 [INFO] [INFO] Fetched page 33, total records so far: 3300
+2025-06-07 04:26:05 [INFO] [INFO] Fetched page 34, total records so far: 3400
+2025-06-07 04:26:06 [INFO] [INFO] Fetched page 35, total records so far: 3500
+2025-06-07 04:26:07 [INFO] [INFO] Fetched page 36, total records so far: 3600
+2025-06-07 04:26:08 [INFO] [INFO] Fetched page 37, total records so far: 3700
+2025-06-07 04:26:09 [INFO] [INFO] Fetched page 38, total records so far: 3800
+2025-06-07 04:26:10 [INFO] [INFO] Fetched page 39, total records so far: 3900
+2025-06-07 04:26:11 [INFO] [INFO] Fetched page 40, total records so far: 4000
+2025-06-07 04:26:12 [INFO] [INFO] Fetched page 41, total records so far: 4100
+2025-06-07 04:26:13 [INFO] [INFO] Fetched page 42, total records so far: 4200
+2025-06-07 04:26:14 [INFO] [INFO] Fetched page 43, total records so far: 4300
+2025-06-07 04:26:15 [INFO] [INFO] Fetched page 44, total records so far: 4400
+2025-06-07 04:26:16 [INFO] [INFO] Fetched page 45, total records so far: 4500
+2025-06-07 04:26:17 [INFO] [INFO] Fetched page 46, total records so far: 4600
+2025-06-07 04:26:18 [INFO] [INFO] Fetched page 47, total records so far: 4700
+2025-06-07 04:26:19 [INFO] [INFO] Fetched page 48, total records so far: 4800
+2025-06-07 04:26:20 [INFO] [INFO] Fetched page 49, total records so far: 4900
+2025-06-07 04:26:21 [INFO] [INFO] Fetched page 50, total records so far: 5000
+2025-06-07 04:26:21 [INFO] [STEP] Reached last page.
+2025-06-07 04:26:21 [INFO] [STEP] Inserted 5000 records into the database.
+2025-06-07 04:26:21 [INFO] [SUCCESS] Data pipeline completed successfully.
+2025-06-09 17:13:49 [INFO] [INFO] Scheduler started. Waiting for scheduled time...
+2025-06-09 17:15:30 [INFO] [INFO] Scheduler started. Waiting for scheduled time...
+2025-06-09 17:20:30 [INFO] [STEP] Starting Data Pipeline with Pagination...
+2025-06-09 17:20:30 [INFO] [STEP] Table created successfully.
+2025-06-09 17:20:30 [INFO] [STEP] Fetching data from all pages...
+2025-06-09 17:20:31 [INFO] [INFO] Fetched page 1, total records so far: 100
+2025-06-09 17:20:32 [INFO] [INFO] Fetched page 2, total records so far: 200
+2025-06-09 17:20:33 [INFO] [INFO] Fetched page 3, total records so far: 300
+2025-06-09 17:20:34 [INFO] [INFO] Fetched page 4, total records so far: 400
+2025-06-09 17:20:36 [INFO] [INFO] Fetched page 5, total records so far: 500
+2025-06-09 17:20:37 [INFO] [INFO] Fetched page 6, total records so far: 600
+2025-06-09 17:20:37 [INFO] [INFO] Fetched page 7, total records so far: 700
+2025-06-09 17:20:38 [INFO] [INFO] Fetched page 8, total records so far: 800
+2025-06-09 17:20:39 [INFO] [INFO] Fetched page 9, total records so far: 900
+2025-06-09 17:20:40 [INFO] [INFO] Fetched page 10, total records so far: 1000
+2025-06-09 17:20:41 [INFO] [INFO] Fetched page 11, total records so far: 1100
+2025-06-09 17:20:43 [INFO] [INFO] Fetched page 12, total records so far: 1200
+2025-06-09 17:20:43 [INFO] [INFO] Fetched page 13, total records so far: 1300
+2025-06-09 17:20:44 [INFO] [INFO] Fetched page 14, total records so far: 1400
+2025-06-09 17:20:45 [INFO] [INFO] Fetched page 15, total records so far: 1500
+2025-06-09 17:20:46 [INFO] [INFO] Fetched page 16, total records so far: 1600
+2025-06-09 17:20:47 [INFO] [INFO] Fetched page 17, total records so far: 1700
+2025-06-09 17:20:48 [INFO] [INFO] Fetched page 18, total records so far: 1800
+2025-06-09 17:20:49 [INFO] [INFO] Fetched page 19, total records so far: 1900
+2025-06-09 17:20:50 [INFO] [INFO] Fetched page 20, total records so far: 2000
+2025-06-09 17:20:51 [INFO] [INFO] Fetched page 21, total records so far: 2100
+2025-06-09 17:20:52 [INFO] [INFO] Fetched page 22, total records so far: 2200
+2025-06-09 17:20:53 [INFO] [INFO] Fetched page 23, total records so far: 2300
+2025-06-09 17:20:54 [INFO] [INFO] Fetched page 24, total records so far: 2400
+2025-06-09 17:20:55 [INFO] [INFO] Fetched page 25, total records so far: 2500
+2025-06-09 17:20:56 [INFO] [INFO] Fetched page 26, total records so far: 2600
+2025-06-09 17:20:57 [INFO] [INFO] Fetched page 27, total records so far: 2700
+2025-06-09 17:20:58 [INFO] [INFO] Fetched page 28, total records so far: 2800
+2025-06-09 17:20:59 [INFO] [INFO] Fetched page 29, total records so far: 2900
+2025-06-09 17:21:00 [INFO] [INFO] Fetched page 30, total records so far: 3000
+2025-06-09 17:21:01 [INFO] [INFO] Fetched page 31, total records so far: 3100
+2025-06-09 17:21:02 [INFO] [INFO] Fetched page 32, total records so far: 3200
+2025-06-09 17:21:03 [INFO] [INFO] Fetched page 33, total records so far: 3300
+2025-06-09 17:21:04 [INFO] [INFO] Fetched page 34, total records so far: 3400
+2025-06-09 17:21:05 [INFO] [INFO] Fetched page 35, total records so far: 3500
+2025-06-09 17:21:06 [INFO] [INFO] Fetched page 36, total records so far: 3600
+2025-06-09 17:21:07 [INFO] [INFO] Fetched page 37, total records so far: 3700
+2025-06-09 17:21:08 [INFO] [INFO] Fetched page 38, total records so far: 3800
+2025-06-09 17:21:09 [INFO] [INFO] Fetched page 39, total records so far: 3900
+2025-06-09 17:21:10 [INFO] [INFO] Fetched page 40, total records so far: 4000
+2025-06-09 17:21:11 [INFO] [INFO] Fetched page 41, total records so far: 4100
+2025-06-09 17:21:13 [INFO] [INFO] Fetched page 42, total records so far: 4200
+2025-06-09 17:21:14 [INFO] [INFO] Fetched page 43, total records so far: 4300
+2025-06-09 17:21:15 [INFO] [INFO] Fetched page 44, total records so far: 4400
+2025-06-09 17:21:16 [INFO] [INFO] Fetched page 45, total records so far: 4500
+2025-06-09 17:21:17 [INFO] [INFO] Fetched page 46, total records so far: 4600
+2025-06-09 17:21:17 [INFO] [INFO] Fetched page 47, total records so far: 4700
+2025-06-09 17:21:18 [INFO] [INFO] Fetched page 48, total records so far: 4800
+2025-06-09 17:21:20 [INFO] [INFO] Fetched page 49, total records so far: 4900
+2025-06-09 17:21:21 [INFO] [INFO] Fetched page 50, total records so far: 5000
+2025-06-09 17:21:21 [INFO] [STEP] Reached last page.
+2025-06-09 17:21:22 [INFO] [STEP] Inserted 5000 records into the database.
+2025-06-09 17:21:22 [INFO] [SUCCESS] Data pipeline completed successfully.
