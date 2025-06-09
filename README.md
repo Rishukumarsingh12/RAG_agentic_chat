@@ -15,6 +15,25 @@ This project is a **Retrieval-Augmented Generation (RAG)** chat system designed 
 
 ---
 
+## 🛠️ Tools Used in the RAG Agentic System
+
+This project leverages two custom tool functions integrated into the agent framework to support retrieval-augmented responses:
+
+### 🔍 Tool 1: `search_documents_by_keyword`
+- **Function**: `search_documents_by_keyword`
+- **Description**: Searches pre-fetched executive orders from the Federal Register API stored in your local MySQL database.
+- **Search Scope**: Title, abstract, and excerpt fields.
+- **Use Case**: This tool is used when the query pertains to U.S. government documents such as presidential executive orders or agency updates.
+
+### 🌐 Tool 2: `web_search_with_serpapi`
+- **Function**: `web_search_with_serpapi`
+- **Description**: Executes real-time web searches via [SerpAPI](https://serpapi.com) to fetch up-to-date public web data.
+- **Search Scope**: Broader web search, especially when internal sources do not provide enough information.
+- **Use Case**: This tool is used when a query requires external context, like news headlines, recent events, or general knowledge.
+
+The agent intelligently decides which tool to invoke based on the user query and presents only relevant results to the language model.
+
+---
 ## 🛠️ System Architecture
 +-----------------------------+
 | User (Frontend) |
